@@ -5,3 +5,4 @@ Write the following information inside:
 1. Name
 2. Nickname
 3. Message to class
+...
